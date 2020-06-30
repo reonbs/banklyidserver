@@ -1,0 +1,12 @@
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Respository/bin/Debug/netcoreapp3.1/Bankly.IdentitySvr.Respository.deps.json
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Respository/bin/Debug/netcoreapp3.1/Bankly.IdentitySvr.Respository.runtimeconfig.json
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Respository/bin/Debug/netcoreapp3.1/Bankly.IdentitySvr.Respository.runtimeconfig.dev.json
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Respository/bin/Debug/netcoreapp3.1/Bankly.IdentitySvr.Respository.dll
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Respository/bin/Debug/netcoreapp3.1/Bankly.IdentitySvr.Respository.pdb
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Respository/obj/Debug/netcoreapp3.1/Bankly.IdentitySvr.Respository.csprojAssemblyReference.cache
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Respository/obj/Debug/netcoreapp3.1/Bankly.IdentitySvr.Respository.AssemblyInfoInputs.cache
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Respository/obj/Debug/netcoreapp3.1/Bankly.IdentitySvr.Respository.AssemblyInfo.cs
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Respository/obj/Debug/netcoreapp3.1/Bankly.IdentitySvr.Respository.csproj.CoreCompileInputs.cache
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Respository/obj/Debug/netcoreapp3.1/Bankly.IdentitySvr.Respository.dll
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Respository/obj/Debug/netcoreapp3.1/Bankly.IdentitySvr.Respository.pdb
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Respository/obj/Debug/netcoreapp3.1/Bankly.IdentitySvr.Respository.genruntimeconfig.cache

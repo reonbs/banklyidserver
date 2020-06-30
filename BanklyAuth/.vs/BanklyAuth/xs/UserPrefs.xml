@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{90D79E8A-7DEA-4B65-A4EB-70201F5C4CC0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bankly.IdentitySvr/CustomConfiguration/IdServerConfig.cs">
+    <Files>
+      <File FileName="Bankly.IdentitySvr/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Bankly.IdentitySvr/Startup.cs" Line="114" Column="66" />
+      <File FileName="Bankly.IdentitySvr.Core/Class1.cs" Line="1" Column="1" />
+      <File FileName="Bankly.IdentitySvr/appsettings.Development.json" Line="4" Column="5" />
+      <File FileName="Bankly.IdentitySvr/appsettings.json" Line="5" Column="1" />
+      <File FileName="Bankly.IdentitySvr.Respository/Class1.cs" Line="3" Column="41" />
+      <File FileName="Bankly.IdentitySvr.Core/Config/AppSettings.cs" Line="8" Column="10" />
+      <File FileName="Bankly.IdentitySvr.Respository/Models/ApplicationUser.cs" Line="13" Column="1" />
+      <File FileName="Bankly.IdentitySvr.Respository/DBContextConfig/DesignTimeDbContextFactoryBase.cs" Line="59" Column="74" />
+      <File FileName="Bankly.IdentitySvr.Respository/Migrations/Configuration/ConfigurationContextDesignTimeFactory.cs" Line="13" Column="10" />
+      <File FileName="Bankly.IdentitySvr.Respository/Migrations/Configuration/PersistedGrantContextDesignTimeFactory.cs" Line="22" Column="1" />
+      <File FileName="Bankly.IdentitySvr.Respository/Migrations/Users/AppDbContext.cs" Line="8" Column="55" />
+      <File FileName="Bankly.IdentitySvr.Respository/Migrations/Users/AppDbContextDesignTimeFactory.cs" Line="18" Column="10" />
+      <File FileName="Bankly.IdentitySvr.Respository/Migrations/Users/AppDbContextModelSnapshot.cs" Line="1" Column="1" />
+      <File FileName="Bankly.IdentitySvr/CustomConfiguration/IdServerConfig.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BanklyAuth" expanded="True">
+            <Node name="Bankly.IdentitySvr" expanded="True">
+              <Node name="CustomConfiguration" expanded="True">
+                <Node name="IdServerConfig.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Bankly.IdentitySvr.Core" expanded="True">
+              <Node name="Config" expanded="True" />
+            </Node>
+            <Node name="Bankly.IdentitySvr.Respository" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Bankly.IdentitySvr PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

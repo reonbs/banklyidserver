@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankly.IdentitySvr", "Bankly.IdentitySvr\Bankly.IdentitySvr.csproj", "{90D79E8A-7DEA-4B65-A4EB-70201F5C4CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankly.IdentitySvr.Core", "Bankly.IdentitySvr.Core\Bankly.IdentitySvr.Core.csproj", "{01EDBCC5-2AF8-4DE3-B93B-D2E7F7716C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankly.IdentitySvr.Respository", "Bankly.IdentitySvr.Respository\Bankly.IdentitySvr.Respository.csproj", "{29FA4571-CCE6-4B7E-B10F-EFB7918C22BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90D79E8A-7DEA-4B65-A4EB-70201F5C4CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D79E8A-7DEA-4B65-A4EB-70201F5C4CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D79E8A-7DEA-4B65-A4EB-70201F5C4CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D79E8A-7DEA-4B65-A4EB-70201F5C4CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01EDBCC5-2AF8-4DE3-B93B-D2E7F7716C7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01EDBCC5-2AF8-4DE3-B93B-D2E7F7716C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01EDBCC5-2AF8-4DE3-B93B-D2E7F7716C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01EDBCC5-2AF8-4DE3-B93B-D2E7F7716C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29FA4571-CCE6-4B7E-B10F-EFB7918C22BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29FA4571-CCE6-4B7E-B10F-EFB7918C22BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29FA4571-CCE6-4B7E-B10F-EFB7918C22BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29FA4571-CCE6-4B7E-B10F-EFB7918C22BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

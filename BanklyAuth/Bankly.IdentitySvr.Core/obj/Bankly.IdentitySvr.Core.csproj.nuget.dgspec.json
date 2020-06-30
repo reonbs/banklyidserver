@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Core/Bankly.IdentitySvr.Core.csproj": {}
+  },
+  "projects": {
+    "/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Core/Bankly.IdentitySvr.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Core/Bankly.IdentitySvr.Core.csproj",
+        "projectName": "Bankly.IdentitySvr.Core",
+        "projectPath": "/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Core/Bankly.IdentitySvr.Core.csproj",
+        "packagesPath": "/Users/ren-ekene/.nuget/packages/",
+        "outputPath": "/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ren-ekene/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Respository/Bankly.IdentitySvr.Respository.csproj": {
+                "projectPath": "/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Respository/Bankly.IdentitySvr.Respository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Respository/Bankly.IdentitySvr.Respository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Respository/Bankly.IdentitySvr.Respository.csproj",
+        "projectName": "Bankly.IdentitySvr.Respository",
+        "projectPath": "/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Respository/Bankly.IdentitySvr.Respository.csproj",
+        "packagesPath": "/Users/ren-ekene/.nuget/packages/",
+        "outputPath": "/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Respository/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ren-ekene/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "IdentityServer4.AspNetIdentity": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "IdentityServer4.EntityFramework": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

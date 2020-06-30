@@ -1,0 +1,12 @@
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Core/bin/Debug/netcoreapp3.1/Bankly.IdentitySvr.Core.deps.json
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Core/bin/Debug/netcoreapp3.1/Bankly.IdentitySvr.Core.dll
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Core/bin/Debug/netcoreapp3.1/Bankly.IdentitySvr.Core.pdb
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Core/bin/Debug/netcoreapp3.1/Bankly.IdentitySvr.Respository.dll
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Core/bin/Debug/netcoreapp3.1/Bankly.IdentitySvr.Respository.pdb
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Core/obj/Debug/netcoreapp3.1/Bankly.IdentitySvr.Core.csprojAssemblyReference.cache
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Core/obj/Debug/netcoreapp3.1/Bankly.IdentitySvr.Core.AssemblyInfoInputs.cache
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Core/obj/Debug/netcoreapp3.1/Bankly.IdentitySvr.Core.AssemblyInfo.cs
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Core/obj/Debug/netcoreapp3.1/Bankly.IdentitySvr.Core.csproj.CoreCompileInputs.cache
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Core/obj/Debug/netcoreapp3.1/Bankly.IdentitySvr.Core.csproj.CopyComplete
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Core/obj/Debug/netcoreapp3.1/Bankly.IdentitySvr.Core.dll
+/Users/ren-ekene/Documents/reoproj/banklyidserver/BanklyAuth/Bankly.IdentitySvr.Core/obj/Debug/netcoreapp3.1/Bankly.IdentitySvr.Core.pdb
